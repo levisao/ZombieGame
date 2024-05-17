@@ -140,7 +140,9 @@ PrefabInstance:
       value: Rocket Pickup
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 3091581388035872843, guid: ffd1a0e0102c46b408c743009865ff23, type: 3}
+    - {fileID: 8205345089411401452, guid: ffd1a0e0102c46b408c743009865ff23, type: 3}
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 3617658148400086576, guid: ffd1a0e0102c46b408c743009865ff23, type: 3}
       insertIndex: -1
